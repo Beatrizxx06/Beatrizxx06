@@ -25,7 +25,7 @@
 
 ## 💬 Me encontre por aí
 
-[![Instagram](https://img.shields.io/badge/-@seuinsta-E4405F?style=flat&logo=Instagram&logoColor=white](https://www.instagram.com/beatriz06_xx?igsh=MTltbDVuaXdtd2J3aQ==))
+[![Instagram](https://img.shields.io/badge/-@seuinsta-E4405F?style=flat&logo=Instagram&logoColor=white]https://www.instagram.com/beatriz06_xx?igsh=MTltbDVuaXdtd2J3aQ==)
 [![LinkedIn](https://img.shields.io/badge/-SeuNome-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-xavier-b96b29300?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
 ---
