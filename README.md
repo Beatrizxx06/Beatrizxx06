@@ -97,7 +97,7 @@
         <!-- Header Section -->
         <div class="glass-card p-8 mb-8 text-center">
             <div class="w-32 h-32 mx-auto mb-6 rounded-full border-4 border-white overflow-hidden">
-                <img src="https://placehold.co/128x128" alt="Foto de perfil de Beatriz Xavier Santana - jovem desenvolvedora sorrindo com cabelos escuros" class="w-full h-full object-cover">
+                <img src="https://pin.it/aktl9GshP" class="w-full h-full object-cover">
             </div>
             <h1 class="text-4xl font-bold text-white mb-2">Beatriz Xavier Santana</h1>
             <p class="text-xl text-purple-100 mb-2 typewriter">Desenvolvedora & Estudante de ADS</p>
