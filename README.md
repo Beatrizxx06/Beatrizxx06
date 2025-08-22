@@ -241,7 +241,7 @@
                 </div>
                 <div class="bg-purple-600 bg-opacity-30 p-6 rounded-lg text-center">
                     <span class="language-flag bg-blue-500 text-white">EN</span>
-                    <h3 class="text-lg font-medium text-white inline">Inglês</h3>
+                    <h3 class="text-lg font-medium text-white inline">Inglês </h3>
                     <p class="text-purple-200 mt-2">Básico</p>
                 </div>
             </div>
