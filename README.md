@@ -1,16 +1,60 @@
-## Hi there 👋
+# 👋 Olá, eu sou Bea
 
-<!--
-**Beatrizxx06/Beatrizxx06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
+<br>
+💻 Desenvolvendo projetos em Java, MySQL e aplicações desktop
+---
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou estudante de ADS e atualmente foco no desenvolvimento de sistemas utilizando:
+
+* Java
+* MySQL
+* Programação Orientada a Objetos
+* Arquitetura DAO
+* Git e GitHub
+* Desenvolvimento Desktop
+
+---
+
+## 🛠️ Tecnologias que utilizo
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,mysql,git,github,vscode,eclipse" />
+
+</div>
+
+---
+
+## 📚 Atualmente estudando
+
+* Integração Java + MySQL
+* Estrutura de sistemas acadêmicos
+* Banco de dados relacionais
+* Boas práticas de programação
+* Versionamento de projetos
+---
+
+
+---
+
+## 🌟 Frase
+
+> “Pequenos avanços todos os dias constroem grandes resultados.”
+
+---
+
+## 📫 Contato
+
+📧 bixavier06@gmail.com
+<br>
+📧 beatriz-xavier-b96b29300
+---
+
+<div align="center">
+
+⭐ Obrigada por visitar meu perfil ⭐
+
+</div>
