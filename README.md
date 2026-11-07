@@ -23,15 +23,14 @@
 public class Bea {
     String curso     = "Análise e Desenvolvimento de Sistemas";
     String foco      = "Sistemas desktop com Java + MySQL";
-    String[] pratica = { "POO", "Arquitetura DAO", "Banco de dados relacional", "Git & GitHub" };
-    String[] explora = { "Front-end (HTML, CSS, JS)", "Python", "C", "Arduino" };
+    String[] pratica = { "POO", "Arquitetura DAO", "Banco de dados relacional",  };
+    String[] explora = { "Python", "C", "Arduino" };
     String lema      = "Pequenos avanços todos os dias constroem grandes resultados.";
 }
 ```
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 - 💻 Construo **aplicações desktop em Java (Swing) integradas ao MySQL**, organizadas em camadas *model / DAO / view*
-- 🌐 Também desenvolvo **sites responsivos** com HTML, CSS e JavaScript puro
 - 🔌 Já explorei **eletrônica com Arduino** — leitura de sensor ultrassônico com LEDs e buzzer
 - 📚 Estudando agora: integração Java + MySQL, modelagem de bancos relacionais e boas práticas de código
 
