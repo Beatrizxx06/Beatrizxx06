@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/Beatrizxx06">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=560&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Sistemas+desktop+com+Java+%2B+MySQL;Arquitetura+DAO+e+Orienta%C3%A7%C3%A3o+a+Objetos;Front-end+com+HTML%2C+CSS+e+JavaScript" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=560&lines=An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Sistemas+desktop+com+Java+%2B+MySQL;Arquitetura+DAO+e+Orienta%C3%A7%C3%A3o+a+Objetos;Front-end+com+HTML%2C+CSS+e+JavaScript" alt="Typing SVG" />
   </a>
 </p>
 
