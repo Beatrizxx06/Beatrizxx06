@@ -123,6 +123,7 @@ public class Bea {
 | --- | --- | --- |
 | [Cadastro](https://github.com/Beatrizxx06/Cadastro) | CRUD em arquivo texto usando `struct` — termos de hidrologia (hidrograma) | C |
 | [Jogo da Forca](https://github.com/Beatrizxx06/Jogo_Da_Forca_Python.py) | Jogo da forca no terminal | Python |
+| [Maior Valor do Vetor](https://github.com/Beatrizxx06/maior-valor-vetor) | Encontra o maior valor de um vetor e a posição em que ele está | C |
 | [Vetores e Primos](https://github.com/Beatrizxx06/Trabalho-de-vetores-primos) | Cifra de César em strings e análise de posições primas das letras | C |
 | [Calculadora](https://github.com/Beatrizxx06/calculadora) | Calculadora de terminal com as quatro operações | C |
 | [Temperatura](https://github.com/Beatrizxx06/temperatura) | Média semanal de temperaturas e dias acima da média | C |
